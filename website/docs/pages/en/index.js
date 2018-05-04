@@ -79,7 +79,9 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="https://github.com/tipsi/tipsi-stripe/tree/master/example">
+            <Button href="https://github.com/tipsi/tipsi-stripe">
+              Github
+            </Button><Button href="https://github.com/tipsi/tipsi-stripe/tree/master/example">
               Example
             </Button>
           </PromoSection>

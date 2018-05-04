@@ -49,7 +49,11 @@ class Footer extends React.Component {
           <div>
             <h5>More</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
+            <a href="https://github.com/tipsi">GitHub</a>
+            <a href="https://www.facebook.com/gettipsi">Facebook</a>
+            <a href="https://twitter.com/gettipsi">Twitter</a>
+            <a href="https://plus.google.com/+Gettipsi">Google +</a>
+            <a href="https://www.instagram.com/gettipsi">Instagram</a>
             <a
               data-show-count
               className="github-button"

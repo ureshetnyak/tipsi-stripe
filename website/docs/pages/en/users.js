@@ -30,9 +30,11 @@ class Users extends React.Component {
               <p>This project is used by many folks</p>
             </div>
             <div className="logos">{showcase}</div>
-            <p>Are you using this project?</p>
+            <div className="prose">
+              <p>Are you using this project?</p>
+            </div>
             <a
-              href="https://github.com/tipsi/tipsi-stripe/edit/master/website/siteConfig.js"
+              href="https://github.com/tipsi/tipsi-stripe/edit/master/website/docs/siteConfig.js"
               className="button">
               Add your company
             </a>
